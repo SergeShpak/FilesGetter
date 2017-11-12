@@ -1,0 +1,6 @@
+build/
+to_get/
+
+**/.vscode
+**/.clang-format
+**/*.swp
